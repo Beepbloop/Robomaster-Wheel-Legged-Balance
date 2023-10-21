@@ -1,3 +1,6 @@
 [submodule "Devices"]
 	path = Devices
 	url = git@github.com:Beepbloop/PurdueRM-Control-Devices.git
+[submodule "Robomaster-Wheel-Legged-Balance"]
+	path = Robomaster-Wheel-Legged-Balance
+	url = git@github.com:Beepbloop/Robomaster-Wheel-Legged-Balance.git
