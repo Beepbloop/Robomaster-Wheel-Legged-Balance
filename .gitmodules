@@ -1,0 +1,3 @@
+[submodule "Devices"]
+	path = Devices
+	url = git@github.com:Beepbloop/PurdueRM-Control-Devices.git
